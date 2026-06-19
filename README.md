@@ -1,24 +1,165 @@
-<h1 align="center">Hi 👋, I'm Atul Vishwakarma</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vatul16&label=Profile%20views&color=0e75b6&style=flat" alt="vatul16" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vatul16" alt="vatul16" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F79000&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Atul+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer;I+build%2C+break%2C+and+automate+things." alt="Typing SVG" />
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<br/>
 
-- 📫 How to reach me **vishwa.atul16@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vatul16)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/vatul16)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://atulcodes.hashnode.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwa.atul16@gmail.com)
+[![AWS Certified](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/jerry-45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/jerry-45" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/atul-vishwakarma-0849011a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul-vishwakarma-0849011a7/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/vishwa_atul16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/vishwa_atul16" height="30" width="40" /></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=vatul16&label=Profile+Views&color=F79000&style=flat" alt="Profile Views" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatul16&show_icons=true&locale=en&layout=compact" alt="vatul16" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vatul16&show_icons=true&locale=en" alt="vatul16" /></p>
+## 🧠 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vatul16&" alt="vatul16" /></p>
+Cloud & DevOps Engineer with **2+ years** of hands-on experience designing and operating scalable cloud-native infrastructure on AWS. I'm currently the **sole Cloud & DevOps owner** at [ShypBUDDY](https://shypbuddy.com), where I have end-to-end ownership of a high-throughput logistics platform that processes **2,000+ daily orders**.
+
+- 🚀 Reduced deployment cycles by **80%** (2 weeks → 3 days) via CI/CD automation
+- 🔍 Cut MTTD by **40%** with CloudWatch observability pipelines
+- 🔒 Enforced SOC2-aligned security through RBAC and AWS Secrets Manager
+- ✍️ Publicly document my infra work — **12+ AWS projects** written up on dev.to
+- 📍 Based in Thane, Maharashtra, India
+
+---
+
+## 🛠️ Tech Stack
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![AWS CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Containers & Orchestration**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![ECS Fargate](https://img.shields.io/badge/ECS_Fargate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+
+**CI/CD & Automation**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS CodeBuild](https://img.shields.io/badge/CodeBuild-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS CodeDeploy](https://img.shields.io/badge/CodeDeploy-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Observability**
+
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+
+**Languages & Scripting**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+## 🏗️ Featured Projects
+
+> Building and shipping production-grade infrastructure, one Terraform module at a time.
+
+### 🔷 [TerraTier — Production-Grade 3-Tier AWS Architecture](https://github.com/vatul16/terratier)
+
+[![Terraform](https://img.shields.io/badge/Terraform->=1.13-844FBA?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![AWS](https://img.shields.io/badge/AWS_Provider-~>6.0-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://registry.terraform.io/providers/hashicorp/aws/latest)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](https://github.com/vatul16/terratier/blob/main/LICENSE)
+
+A fully isolated, auto-scaling 3-tier web architecture on AWS — provisioned entirely with Terraform. Built around a **Go REST API** and a **Node.js frontend** running behind two Application Load Balancers, with subnet-level security isolation, Secrets Manager credential management, and CloudWatch observability baked in.
+
+**Key design decisions:**
+- 🔒 **4 subnet tiers** (not the usual 3) — frontend and backend private subnets isolated from each other
+- ⚖️ **2 ALBs** — public-facing for the frontend, internal-only for the backend; backend API is never internet-reachable
+- 🛡️ **IMDSv2 enforced** on every EC2 resource — closes the classic SSRF credential-theft path
+- 🔑 **Zero hardcoded secrets** — RDS credentials generated by `random_password`, stored in Secrets Manager, fetched at boot via AWS CLI
+- 🖥️ **SSM Session Manager** — no SSH keys distributed to app instances
+
+**Stack:** `Terraform` · `AWS EC2 ASG` · `RDS PostgreSQL` · `ALB` · `Secrets Manager` · `CloudWatch` · `Go` · `Node.js` · `Docker`
+
+📝 **Deep-dive write-up:** [Design Decisions & Trade-offs →](https://dev.to/vatul16/building-a-production-grade-3-tier-aws-architecture-with-terraform-design-decisions-trade-offs-370f)
+
+---
+
+<!-- PROJECTS_PLACEHOLDER: Add more projects below as you build them -->
+
+> 🚧 **More projects coming soon** — EKS with custom Terraform modules, CI/CD pipeline templates, and an observability stack. Stay tuned!
+
+---
+
+## ✍️ Latest Blog Posts
+
+<!-- The links below are picked from your most recent/popular posts across dev.to and Hashnode -->
+
+### 🟣 [dev.to/vatul16](https://dev.to/vatul16)
+
+| Post | Tags |
+|------|------|
+| [Building a Production-Grade 3-Tier AWS Architecture with Terraform: Design Decisions, Trade-offs, and Lessons Learned](https://dev.to/vatul16/building-a-production-grade-3-tier-aws-architecture-with-terraform-design-decisions-trade-offs-370f) | `#aws` `#terraform` `#devops` |
+| [Stop Deploying Manually: How to Build Your First CI/CD Pipeline with GitHub Actions](https://dev.to/vatul16/stop-deploying-manually-how-to-build-your-first-cicd-pipeline-with-github-actions-80c) | `#cicd` `#githubactions` `#devops` |
+| [Mastering GitOps: Bridging Infrastructure and Application Delivery with Terraform & ArgoCD](https://dev.to/vatul16/mastering-gitops-bridging-infrastructure-and-application-delivery-with-terraform-argocd-4385) | `#terraform` `#devops` `#automation` |
+| [Building Production-Grade Observability with Terraform](https://dev.to/vatul16/building-production-grade-observability-with-terraform-2i3e) | `#terraform` `#aws` `#devops` |
+| [Setting Up the ELK Stack on AWS EC2 for Log Monitoring](https://dev.to/vatul16/setting-up-the-elk-stack-on-aws-ec2-for-log-monitoring-1eme) | `#elasticsearch` `#devops` `#aws` |
+| [Mastering Blue-Green Deployments with Terraform & AWS Elastic Beanstalk](https://dev.to/vatul16/mastering-blue-green-deployments-with-terraform-aws-elastic-beanstalk-3gpm) | `#terraform` `#aws` `#devops` |
+
+➡️ [View all 22 posts on dev.to →](https://dev.to/vatul16)
+
+### 🟡 [atulcodes.hashnode.dev](https://atulcodes.hashnode.dev)
+
+➡️ [Read on Hashnode →](https://atulcodes.hashnode.dev)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vatul16&show_icons=true&locale=en&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatul16&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vatul16&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📜 Publication
+
+**Unveiling the Cloud: An Evaluation of AWS Infrastructure Against Traditional On-Premise Solutions**  
+Atul Vishwakarma, Parth Dalvi · IJARSCT (Jun 2024) · [DOI: 10.48175/IJARSCT-18932](https://doi.org/10.48175/IJARSCT-18932)
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to talk AWS architecture, Terraform patterns, or DevOps war stories. Drop me a message!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vatul16)
+[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwa.atul16@gmail.com)
+[![dev.to](https://img.shields.io/badge/dev.to-Read_my_blog-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/vatul16)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>⚡ <em>Automate everything. Document what you automate. Share what you document.</em></sub>
+</div>
