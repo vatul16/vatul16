@@ -5,9 +5,9 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vatul16)
-[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/vatul16)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://atulcodes.hashnode.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwa.atul16@gmail.com)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/vatul16)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwakarmaatul2001@gmail.com)
 [![AWS Certified](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
 
 <img src="https://komarev.com/ghpvc/?username=vatul16&label=Profile+Views&color=F79000&style=flat" alt="Profile Views" />
@@ -103,24 +103,21 @@ A fully isolated, auto-scaling 3-tier web architecture on AWS — provisioned en
 
 ## ✍️ Latest Blog Posts
 
-<!-- The links below are picked from your most recent/popular posts across dev.to and Hashnode -->
-
-### 🟣 [dev.to/vatul16](https://dev.to/vatul16)
+### 🟡 [atulcodes.hashnode.dev](https://atulcodes.hashnode.dev)
 
 | Post | Tags |
 |------|------|
-| [Building a Production-Grade 3-Tier AWS Architecture with Terraform: Design Decisions, Trade-offs, and Lessons Learned](https://dev.to/vatul16/building-a-production-grade-3-tier-aws-architecture-with-terraform-design-decisions-trade-offs-370f) | `#aws` `#terraform` `#devops` |
-| [Stop Deploying Manually: How to Build Your First CI/CD Pipeline with GitHub Actions](https://dev.to/vatul16/stop-deploying-manually-how-to-build-your-first-cicd-pipeline-with-github-actions-80c) | `#cicd` `#githubactions` `#devops` |
-| [Mastering GitOps: Bridging Infrastructure and Application Delivery with Terraform & ArgoCD](https://dev.to/vatul16/mastering-gitops-bridging-infrastructure-and-application-delivery-with-terraform-argocd-4385) | `#terraform` `#devops` `#automation` |
-| [Building Production-Grade Observability with Terraform](https://dev.to/vatul16/building-production-grade-observability-with-terraform-2i3e) | `#terraform` `#aws` `#devops` |
-| [Setting Up the ELK Stack on AWS EC2 for Log Monitoring](https://dev.to/vatul16/setting-up-the-elk-stack-on-aws-ec2-for-log-monitoring-1eme) | `#elasticsearch` `#devops` `#aws` |
-| [Mastering Blue-Green Deployments with Terraform & AWS Elastic Beanstalk](https://dev.to/vatul16/mastering-blue-green-deployments-with-terraform-aws-elastic-beanstalk-3gpm) | `#terraform` `#aws` `#devops` |
+| [Stop Deploying Manually: How to Build Your First CI/CD Pipeline with GitHub Actions](https://atulcodes.hashnode.dev/github-actions-cicd-tutorial) | `#cicd` `#githubactions` `#devops` |
+| [How to Dockerize a Node.js App in 5 Easy Steps](https://atulcodes.hashnode.dev/dockerize-nodejs-app-beginner-tutorial) | `#docker` `#nodejs` `#devops` |
+| [Automate Your Docker Builds with GitHub Actions](https://atulcodes.hashnode.dev/automate-your-docker-builds-with-github-actions) | `#docker` `#githubactions` `#automation` |
+| [TIL: How to Fix the "Port Already in Use" Error in Docker](https://atulcodes.hashnode.dev/fix-docker-port-already-in-use-error) | `#docker` `#til` `#devops` |
+| [Infrastructure as Code 101: Provisioning an AWS EC2 Instance with Terraform](https://atulcodes.hashnode.dev/terraform-aws-ec2-iac-tutorial) | `#terraform` `#aws` `#iac` |
 
-➡️ [View all 22 posts on dev.to →](https://dev.to/vatul16)
+➡️ [Read all posts on Hashnode →](https://atulcodes.hashnode.dev)
 
-### 🟡 [atulcodes.hashnode.dev](https://atulcodes.hashnode.dev)
+### 🟣 [dev.to/vatul16](https://dev.to/vatul16)
 
-➡️ [Read on Hashnode →](https://atulcodes.hashnode.dev)
+➡️ [Read on dev.to →](https://dev.to/vatul16)
 
 ---
 
